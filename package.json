@@ -1,0 +1,17 @@
+{
+  "name": "diff_image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "eslint-plugin-react": "^7.11.1",
+    "fastify": "^1.13.0",
+    "fastify-static": "^0.14.0",
+    "point-of-view": "^2.0.0"
+  },
+  "scripts": {
+    "dev": "nodemon --watch",
+    "start": "node index.js"
+  }
+}
